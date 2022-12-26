@@ -1,0 +1,19 @@
+{
+  "name": "react-start-with-vite",
+  "version": "1.0.0",
+  "description": "基于 Vite 的 React 项目启动 demo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "author": "poplink",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^2.2.0",
+    "vite": "^3.2.4"
+  }
+}

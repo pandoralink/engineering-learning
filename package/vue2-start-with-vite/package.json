@@ -1,0 +1,19 @@
+{
+  "name": "vue2-start-with-vite",
+  "version": "1.0.0",
+  "description": "vue2 基于 vite 运行的 demo",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "author": "poplink",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.7.10"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue2": "^2.0.1",
+    "vite": "^3.2.4"
+  }
+}

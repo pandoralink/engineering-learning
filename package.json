@@ -1,0 +1,21 @@
+{
+  "name": "engineering-learning",
+  "version": "1.0.0",
+  "description": "模块化例子 monorepo 库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "poplink",
+  "license": "MIT",
+  "workspaces": [
+    "package\\vue2-start-with-vite",
+    "package\\vue-start-with-webpack",
+    "package\\react-start-with-webpack",
+    "package\\react-start-with-vite"
+  ],
+  "devDependencies": {
+    "vite": "^3.2.4",
+    "vue2-start-with-vite": "^1.0.0"
+  }
+}
